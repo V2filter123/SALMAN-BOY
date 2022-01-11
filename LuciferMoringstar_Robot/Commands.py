@@ -123,7 +123,7 @@ async def start(bot, message):
                             ),
                         InlineKeyboardButton
                             (
-                                "🤖More Botz", url="https://t.me/MT_Botz"
+                                "🔥 New Series", url="https://t.me/S_F_S_SERIES_OFCH"
                             )
                     ],
                     [
